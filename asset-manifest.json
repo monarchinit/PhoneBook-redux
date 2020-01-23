@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PhoneBook-redux/static/css/main.196d98a1.chunk.css",
+    "main.js": "/PhoneBook-redux/static/js/main.ba2763e1.chunk.js",
+    "main.js.map": "/PhoneBook-redux/static/js/main.ba2763e1.chunk.js.map",
+    "runtime-main.js": "/PhoneBook-redux/static/js/runtime-main.8fc8f612.js",
+    "runtime-main.js.map": "/PhoneBook-redux/static/js/runtime-main.8fc8f612.js.map",
+    "static/js/2.2eaeebfb.chunk.js": "/PhoneBook-redux/static/js/2.2eaeebfb.chunk.js",
+    "static/js/2.2eaeebfb.chunk.js.map": "/PhoneBook-redux/static/js/2.2eaeebfb.chunk.js.map",
+    "index.html": "/PhoneBook-redux/index.html",
+    "precache-manifest.31828b9e431630404e078e99f0bea2ec.js": "/PhoneBook-redux/precache-manifest.31828b9e431630404e078e99f0bea2ec.js",
+    "service-worker.js": "/PhoneBook-redux/service-worker.js",
+    "static/css/main.196d98a1.chunk.css.map": "/PhoneBook-redux/static/css/main.196d98a1.chunk.css.map",
+    "static/js/2.2eaeebfb.chunk.js.LICENSE": "/PhoneBook-redux/static/js/2.2eaeebfb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc8f612.js",
+    "static/js/2.2eaeebfb.chunk.js",
+    "static/css/main.196d98a1.chunk.css",
+    "static/js/main.ba2763e1.chunk.js"
+  ]
+}
